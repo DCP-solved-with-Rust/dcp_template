@@ -1,5 +1,7 @@
 # Daily Coding Problem: Problem #x
 
+[![Build Status](https://travis-ci.org/DCP-solved-with-Rust/dcp_template.svg?branch=master)](https://travis-ci.org/DCP-solved-with-Rust/dcp_template?branch=master)
+
 > (Quote e-mail.)
 
 ## Solution
