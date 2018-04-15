@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/DCP-solved-with-Rust/dcp_template.svg?branch=master)](https://travis-ci.org/DCP-solved-with-Rust/dcp_template?branch=master)
 
+This repository is part of the [DCP Solved with Rust](https://dcp-solved-with-rust.github.io/) series.
+
 > (Quote e-mail.)
 
 ## Solution
